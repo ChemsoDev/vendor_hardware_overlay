@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="config_showNavigationBar">true</bool>
+    <bool name="config_dynamic_automatic_brightness_available">true</bool>
+    <bool name="config_enableAutoPowerModes">true</bool>
+    <bool name="config_enableNetworkLocationOverlay">true</bool>
+    <bool name="config_enableFusedLocationOverlay">true</bool>
+    <bool name="config_enableGeocoderOverlay">true</bool>
+    <bool name="config_enableGeofenceOverlay">true</bool>
+    <bool name="config_animateScreenLights">false</bool>
+    <bool name="config_ui_enableFadingMarquee">false</bool>
+    <bool name="config_useDevInputEventForAudioJack">false</bool>
+</resources>
