@@ -51,7 +51,7 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-op6t \
 	treble-overlay-oneplus-op6t-systemui \
 	treble-overlay-razer-cheryl \
-        treble-overlay-samsung-j6lte \
+        treble-overlay-samsung-j6lte
 	treble-overlay-samsung-s10e \
 	treble-overlay-samsung-s9-systemui \
 	treble-overlay-sharp-s2 \
